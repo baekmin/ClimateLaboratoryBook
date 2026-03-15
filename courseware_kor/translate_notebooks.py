@@ -8,7 +8,7 @@ from google import genai
 # 1. 설정 (Settings)
 # ==========================================
 # 발급받은 Gemini API 키를 입력하세요.
-API_KEY = "AIzaSyDV29Cm7EHF47TZlDqAZA1KiAZMqzQQvjQ"
+API_KEY = "발급받은 API KEY"
 
 # 작업할 디렉토리 경로
 TARGET_DIR = "/Users/bat/lecture/ClimateLaboratoryBook/courseware_kor"
